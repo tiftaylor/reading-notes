@@ -6,6 +6,7 @@ _Name_: Tif Taylor
 _Geeky Factoids_: tea nerd :tea: & video games :video_game:   
 _Background_: project coordination/BA in Philosophy    
 _Goal_: seeking a full career transition in January 2021  
+_GitHub Portfolio_: [Tif's GitHub Landing Page](https://github.com/tiftaylor)
 
 
 ## :trophy: Growth Mindset
