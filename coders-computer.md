@@ -1,4 +1,4 @@
-# reading-notes for Read:02 web-links
+# reading-notes | Read:02 web-links
 
 
 ### Choosing a text editor | Takeaways
@@ -11,11 +11,13 @@
 - Text based communication with your computer, using it's "language" of commands providing inputs and getting outputs in return
 - Order to type: command (ls) (space) option (-l) argument (home/me)
 - 2 path types: Absolute (location in relation to Root dir, start w/slash) and Relative(in relation to where we are in the system, no slash)
+- The terminal is case sensitive
+- Spaces in file name need escapes or quotes to not confuse the terminal 
 
 ### The Command Line | Cheat Sheet
 - Use the up or down arrow to cycle through history of commands typed during that session
 - pwd | prints your current working directory
 - cd | change the directory you are in
-- ls | list the contents of the place I'm in (you can add option and/or location)
+- ls | list the contents of the place I'm in (you can add option and/or location) EX: -a(option) tagged on will list hidden files
 - ~(tilde) | shortcut to home dir 
 - ..(dotdot) | reference parent dir
