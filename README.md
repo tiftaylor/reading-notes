@@ -1,5 +1,5 @@
-# reading-notes
-Code Fellows | Reading Notes
+# Tif's Reading Notes
+
 
 ## About Me
 _Name_: Tif Taylor   
