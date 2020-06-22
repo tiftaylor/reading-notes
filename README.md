@@ -1,7 +1,7 @@
 # reading-notes
 Code Fellows | Reading Notes
 
-## About Me
+## :dancer: About Me
 _Name_: Tif Taylor   
 _Geeky Factoids_: tea nerd :tea: & video games :video_game:   
 _Background_: project coordination/BA in Philosophy    
