@@ -27,11 +27,16 @@ Textbook: _Jon Duckett: HTML & CSS_
 
 
 ### HTML5 Layout
-- TBW
+- New elements added for use such as: ```<nav>```, ```<header>```, ```<footer>```, ```<aside>```, etc.
+- You can now place an anchor tag around a block level element to make the entire block clickable
 
 
 ### Extra Markup
-- TBW
+- Comment in your code to help others understand the purpose of a section using ```<!-- -->```
+- Use Global Attributes like ```class``` and ```id``` to be able to refer to specific elements in other code files (like css and javascript)
+- Use the ```<meta>``` tag in your **_head_** like a description, key words, robots, author, etc. 
+- If you want to use an html character like ‘<’ you can use escape characters associated with it (google it for the character you’re trying to escape out into your presentation)
+
 
 
 
