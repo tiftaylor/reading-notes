@@ -1,4 +1,6 @@
-## Growth Mindset
+# [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+
+
 ***In my own words***: Success and achievement can be obtained by any person who believes that their foundational attributes and abilities can be developed with persistence and hard work.
 
 Three reminders for how to keep a Growth Mindset:

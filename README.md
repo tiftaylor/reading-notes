@@ -13,13 +13,13 @@ _GitHub Portfolio_: [Tif's GitHub Landing Page](https://github.com/tiftaylor)
 
 ### Code Fellows 102 | Reading Notes
 Class 1 \| [Growth Mindsest](growth-mindset.md)  
-Class 2 \| [Coders Computer](coders-computer.md)
-Class 3 \|
-Class 4 \|
-Class 5 \|
-Class 6 \|
-Class 7 \|
-Class 8 \|
+Class 2 \| [Coders Computer](coders-computer.md)  
+Class 3 \| [Local and Remote Revisions](git-intro.md)   
+Class 4 \|  
+Class 5 \|  
+Class 6 \|  
+Class 7 \|  
+Class 8 \|  
 
 ### Code Fellows 201 | Reading Notes
 

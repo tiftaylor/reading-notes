@@ -1,4 +1,4 @@
-# reading-notes | Read:02 web-links
+# [Read:02 The Command Line (from ryanstutorials)](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 
 ### Choosing a text editor | Takeaways
