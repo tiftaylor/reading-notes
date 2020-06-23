@@ -15,12 +15,14 @@
 - Spaces in file name need escapes or quotes to not confuse the terminal 
 
 ### The Command Line | Cheat Sheet
-- Use the up or down arrow to cycle through history of commands typed during that session
-- pwd | prints your current working directory
-- cd | change the directory you are in
-- ls | list the contents of the place I'm in (you can add option and/or location) EX: -a(option) tagged on will list hidden files
-- ~(tilde) | shortcut to home dir 
-- ..(dotdot) | reference parent dir
+| Command | What it does                                                                 |
+| ------- |:----------------------------------------------------------------------------:|
+| pwd     | prints your current working directory                                        |
+| cd      | change the directory you are in                                              |
+| ls      | list the contents (can add option or location)                               |
+| ls -a   | -a is an option tagged on to ls which will reveal hidden files in the list   |
+| ~       | shortcut to home dir                                                         |
+| ..      | reference of parent dir                                                      |
 
 
 > [Back to Home](README.md)
