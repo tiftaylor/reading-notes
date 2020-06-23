@@ -1,4 +1,4 @@
-# [Read:03 Git Intro (via Udemy)](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+# [Read:03 \| Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ### Git \| The foundation of version control
 - git is a version control system that can be utilized as local, central or distributed (think collaboration)
@@ -22,3 +22,4 @@
 - try NOT to make changes to files on GitHub \| use an IDE (like **VSCode**) to edit files and then push them to GitHub
 - ```git status``` is a super helpful command!
 
+> [Back to Home](README.md)

@@ -1,4 +1,4 @@
-# [Read:02 The Command Line (from ryanstutorials)](https://ryanstutorials.net/linuxtutorial/commandline.php)
+# [Read:02 \| The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 
 ### Choosing a text editor | Takeaways
