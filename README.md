@@ -20,4 +20,4 @@ Three reminders for how to keep a Growth Mindset:
 ## Table of Contents
 - [Coders Computer](coders-computer.md)
 
-[Back to Home](README.md)
+
