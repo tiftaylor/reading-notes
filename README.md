@@ -17,3 +17,7 @@ Three reminders for how to keep a Growth Mindset:
 >2.  Take moments to evaluate the level of effort I'm committing to something and acknowledge what that actual level is with recognition if satisfactory or with encouragement if fit needs improvement.
 >3.  Remember that feedback is not a personal attack, remember that you are there to learn from others. Two heads are better than one!
 
+## Table of Contents
+- [Coders Computer](coders-computer.md)
+
+[Back to Home](README.md)
