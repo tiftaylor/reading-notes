@@ -12,7 +12,7 @@ _GitHub Portfolio_: [Tif's GitHub Landing Page](https://github.com/tiftaylor)
 ## Table of Contents
 
 ### Code Fellows 102 | Reading Notes
-- [Growth Mindsest]()
+- [Growth Mindsest](growth-mindset.md)
 - [Coders Computer](coders-computer.md)
 
 
