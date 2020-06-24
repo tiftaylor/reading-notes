@@ -1,4 +1,5 @@
 # Read:04 \| Intro to CSS
+Textbook: _Jon Duckett: HTML & CSS_
 
 ### CSS
 - creates style rules for everything in the body tag
@@ -12,3 +13,5 @@
 - primarily you use color for backgrounds and text
 - be sure to think about contrast and opacity
 - consider the hsl and hsla properties (hue, saturation, lightness)
+
+> [Back to Home](README.md)
