@@ -16,7 +16,7 @@ Class 1 \| [Growth Mindsest](growth-mindset.md)
 Class 2 \| [Coders Computer](coders-computer.md)  
 Class 3 \| [Local and Remote Revisions](git-intro.md)   
 Class 4 \| [HTML](html-structure.md)   
-Class 5 \|  
+Class 5 \| [Intro to CSS](css-intro.md)   
 Class 6 \|  
 Class 7 \|  
 Class 8 \|  
