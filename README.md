@@ -2,11 +2,11 @@
 
 
 ## About Me
-_Name_: Tif Taylor   
-_Geeky Factoids_: tea nerd & video games    
-_Background_: project coordination/BA in Philosophy    
-_Goal_: seeking a full career transition in January 2021  
-_GitHub Portfolio_: [Tif's GitHub Landing Page](https://github.com/tiftaylor)
+_**Name**_: Tif Taylor   
+_**Geeky Factoids**_: tea nerd & video games    
+_**Background**_: project coordination/BA in Philosophy    
+_**Goal**_: seeking a full career transition in January 2021  
+_**GitHub Portfolio**_: [Tif's GitHub Landing Page](https://github.com/tiftaylor)
 
 
 ## Table of Contents
@@ -19,7 +19,7 @@ Class 4 \| [HTML](html-structure.md)
 Class 5 \| [Intro to CSS](css-intro.md)   
 Class 6 \| [Intro to JavaScript](js-intro.md) \| [How Computers Work](computers.md)     
 Class 7 \| [Programming with JS](moreJS.md)   
-Class 8 \|  
+Class 8 \| [Loops with JS](loops.md)  
 
 ### Code Fellows 201 | Reading Notes
 
