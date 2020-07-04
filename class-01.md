@@ -66,14 +66,7 @@ It's ideal to *design* the **tasks** and **steps** of your script to fully under
 - When you open a browser (like Chrome) the Object you first see is the *window* (the browser tab) and inside that object, the *document* object is rendered
 - The Document Object Model represents the **HTML** page and contains properties, methods, and events
 - The DOM receives initial HTML code and stores a model of it in memory (often referred to as the DOM tree), which is where JavaScript will interact with the HTML
-![DOM Tree](/images/domTree.jpg)
-
-### JS Lingo
-- *Statements*: are instructions and each one starts a new line; can be organized in code blocks and usually end with `;`
-- *Comments*: Single line comments explaining the code is written with `//` before the text (multi-line uses `/* */`)
-- *Variables*: declare them like this `var thing;`, assign them using = Ex: `thing = 3;`
-- Names can’t start with a number, cannot use - or . and use camelCase
-- *Data Types*: Numeric data (0.75), String data (“Hello”), Boolean Data (true/false)  
+![DOM Tree](/images/domTree.jpg) 
 
 ### JavaScript Tidbits
 - HTML = content, CSS = presentation, JavaScript = behavior
