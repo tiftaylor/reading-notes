@@ -1,9 +1,7 @@
-# About Me
-_**Name**_: Tif Taylor   
-_**Geeky Factoids**_: tea nerd & video games    
-_**Background**_: project coordination/BA in philosophy    
-_**Goal**_: seeking a full career transition in January 2021  
-_**GitHub Portfolio**_: [Tif's GitHub Landing Page](https://github.com/tiftaylor)
+# About
+This is a repository for reading notes assignments during the [Code Fellows](https://www.codefellows.org/) Daytime Immersive Software Developer program. Reading resources include various external websites and a textbook set by [Jon Duckett "HTML & CSS" and "JavaScript & jQuery"](https://www.amazon.com/dp/1118907442/ref=cm_sw_em_r_mt_dp_U_X77.EbAN2ACE2)
+
+Author of **reading-notes** Repo: Tif Taylor  \| [Tif's GitHub Profile Page](https://github.com/tiftaylor)
 
 ---
 
@@ -20,7 +18,7 @@ Class 7 \| [Programming with JS](moreJS.md)
 Class 8 \| [Loops with JS](loops.md)  
 
 ### Code Fellows 201 | Reading Notes
-Class 1 \|  
+Class 1 \| [Intro to HTML & Intro to JavaScript](class-01.md)   
 Class 2 \|  
 Class 3 \|  
 Class 4 \|  
