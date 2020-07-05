@@ -7,7 +7,7 @@ Author of **reading-notes** Repo: Tif Taylor  \| [Tif's GitHub Profile Page](htt
 
 # Table of Contents
 
-### Code Fellows 102 | Reading Notes
+## Code Fellows 102 | Reading Notes
 Class 1 \| [Growth Mindsest](growth-mindset.md)  
 Class 2 \| [Coders Computer](coders-computer.md)  
 Class 3 \| [Local and Remote Revisions](git-intro.md)   
@@ -17,10 +17,10 @@ Class 6 \| [Intro to JavaScript](js-intro.md) \| [How Computers Work](computers.
 Class 7 \| [Programming with JS](moreJS.md)   
 Class 8 \| [Loops with JS](loops.md)  
 
-### Code Fellows 201 | Reading Notes
+## Code Fellows 201 | Reading Notes
 Class 1 \| [Intro to HTML & Intro to JavaScript](class-01.md)   
 Class 2 \| Basics of HTML, CSS & JS   
-Class 3 \| HTML Lists, CSS Boxes, Control Flow w/JS
+Class 3 \| HTML Lists, CSS Boxes, Control Flow w/JS  
 Class 4 \|  
 Class 5 \|  
 Class 6 \|  
@@ -34,6 +34,6 @@ Class 13 \|
 Class 14 \|  
 Class 15 \|  
 
-### Code Fellows 301 | Reading Notes
+## Code Fellows 301 | Reading Notes
 
 
