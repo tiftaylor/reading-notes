@@ -19,9 +19,9 @@ Class 8 \| [Loops with JS](loops.md)
 
 ## Code Fellows 201 | Reading Notes
 Class 1 \| [Intro to HTML & Intro to JavaScript](class-01.md)   
-Class 2 \| Basics of HTML, CSS & JS   
+Class 2 \| [Basics of HTML, CSS & JS](class-02.md)   
 Class 3 \| HTML Lists, CSS Boxes, Control Flow w/JS  
-Class 4 \| HTML Links, CSS Layout & JS Functions 
+Class 4 \| HTML Links, CSS Layout & JS Functions   
 Class 5 \|  
 Class 6 \|  
 Class 7 \|  
