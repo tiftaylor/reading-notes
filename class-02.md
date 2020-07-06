@@ -1,5 +1,5 @@
 # Read:02 \| Basics of HTML, CSS & JS
-Textbook: _Jon Duckett: HTML & CSS_ + JavaScript & jQuery  
+[Textbook](https://www.amazon.com/dp/1118907442/ref=cm_sw_em_r_mt_dp_U_X77.EbAN2ACE2): _Jon Duckett: HTML & CSS_ + JavaScript & jQuery  
 *(HTML book: Chapters 2 + 10 \| JS book: Chapters 2 + 4)*
 
 ---
