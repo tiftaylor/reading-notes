@@ -1,5 +1,5 @@
 # Read:03 \| HTML Lists, CSS Boxes, Control Flow w/JS
-Textbook: _Jon Duckett: HTML & CSS_ + JavaScript & jQuery  
+[Textbook](https://www.amazon.com/dp/1118907442/ref=cm_sw_em_r_mt_dp_U_X77.EbAN2ACE2): _Jon Duckett: HTML & CSS_ + JavaScript & jQuery  
 *(HTML book: Chapters 3 + 13 \| JS book: Chapters 4*
 
 ---
@@ -14,11 +14,11 @@ Example of an Unordered List in HTML syntax:
 ```
 <!-- in the body of the document -- >
 <body>
-	<h1>My List</h1>
-	<ul>
-		<li>Bananas</li>
-		<li>Apples</li>
-	</ul>
+  <h1>My List</h1>
+  <ul>
+    <li>Bananas</li>
+    <li>Apples</li>
+  </ul>
 </body>
 ```
 
@@ -28,12 +28,12 @@ Example of an Unordered List in HTML syntax:
 ### Boxes \| Width & Height 
 - Boxes are the basic design of HTML elements, with CSS we can control the **dimensions**, **borders**, **margins**, **padding**, etc of these boxes. Outside of this manipulation is also how and where to position the boxes on the page using the **Box Model**
 - Manipulating the boxes can be done with numbers assigned as pixels, percentages, ems or rems. 
-	-Ex: width: 400px \| or width: 75% 
+  -Ex: width: 400px \| or width: 75% 
 - `width` & `height` can also be dictated with min and max features tagged on like this: `max-width` or `min-height` to maintain specific ratio control as the window size changes
 
 ### Borders, Margins & Padding
 - Every element/box has **3 main properties** surrounding it to adjust its appearance: **Border**, **Margin**, **Padding**  
-Example of the 3 properties surrounding an element:
+Example of the 3 properties surrounding an element:  
 ![BMP Box](images/bmp.png)
 
 - **Border** is the area between the margin and padding and usually refers to the visible or invisible container line separating the padding and margin 
@@ -41,7 +41,7 @@ Example of the 3 properties surrounding an element:
 - Default language built into CSS can also identify a `border-style` like *solid*, *dotted*, or *groove*, etc. Also, the `border-color` property to make the border line be black or green, etc.
 - Borders can utilize other properties such as `border-radius` to round the corners by a certain amount; `box-shadow` to control if you want it to look 3-D with a shadow from an edge of the box
 - You can also use shorthand for border to set it’s width, style and color respectively all in one line
-	- Ex: `border: 3px dotted #0088dd;`
+  - Ex: `border: 3px dotted #0088dd;`
 - **Margins & Padding** can also be controlled by specifying their top, bottom, right or left value. 
 - **Margin** refers to the outer most box of the diagram below and adds space on the outside of the element box
 - **Padding** refers to the space between the border line and the edge of the element. In other words, adding 10 pixels of padding to all sides would make the text be 10 pixels of space away from the border line (as opposed to right next to the border line immediately)
@@ -85,7 +85,7 @@ answer.textContent = msg; // should print “You’re on level 2” to the user
 - Because of the fancy type coercion, everything in JS has an inherent **truthy** or **falsy** value (not to be confused with the strict boolean confirmed version of **true** vs. **false**
 
 Image from textbook referenced above of the Falsy / Truthy Table: 
-![Falsy/Truthy](images/truthyfalsytable.jpg)
+<img src="images/truthyfalsytable.jpg" width="250" alt="Falsy/Truthy">
 
 ### Loop d’Loops
 - Loops check a condition x number of times until a specified condition is met; once met, it will run the code written inside it's `{}`
