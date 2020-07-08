@@ -1,6 +1,6 @@
 # Read:04 \| HTML Links, CSS Layout & JS Functions
 [Textbook](https://www.amazon.com/dp/1118907442/ref=cm_sw_em_r_mt_dp_U_X77.EbAN2ACE2): _Jon Duckett: HTML & CSS_ + JavaScript & jQuery  
-*(HTML book: Chapters 4 + 15 \| JS book: Chapters 3*  
+*(HTML book: Chapters 4 + 15 \| JS book: Chapters 3)*  
 Article from Code Fellows: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/) 
 
 ---
