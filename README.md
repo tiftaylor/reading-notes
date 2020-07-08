@@ -21,7 +21,7 @@ Class 8 \| [Loops with JS](loops.md)
 Class 1 \| [Intro to HTML & Intro to JavaScript](class-01.md)   
 Class 2 \| [Basics of HTML, CSS & JS](class-02.md)   
 Class 3 \| [HTML Lists, CSS Boxes, Control Flow w/JS](class-03.md)    
-Class 4 \| HTML Links, CSS Layout & JS Functions   
+Class 4 \| [HTML Links, CSS Layout & JS Functions](class-04.md)     
 Class 5 \|  
 Class 6 \|  
 Class 7 \|  
