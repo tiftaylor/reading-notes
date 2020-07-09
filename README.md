@@ -23,7 +23,7 @@ Class 2 \| [Basics of HTML, CSS & JS](class-02.md)
 Class 3 \| [HTML Lists, CSS Boxes, Control Flow w/JS](class-03.md)    
 Class 4 \| [HTML Links, CSS Layout & JS Functions](class-04.md)     
 Class 5 \| [HTML Images, CSS Color & Text](class-05.md)   
-Class 6 \|  
+Class 6 \| [JS Object Literals & The DOM](class-06.md)   
 Class 7 \|  
 Class 8 \|  
 Class 9 \|  
