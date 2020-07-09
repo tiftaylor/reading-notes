@@ -6,7 +6,7 @@ Article: [Understanding the problem domain is the hardest part of programming](h
 ---
 ## JS | Object Literals
 ---
-> Objects contain a set of **variables** and **functions** that create a **model** of something  
+> Objects contain a set of **variables** and **functions** that create a **model** of something    
 - **variables** become known as a **property** inside an Object, like the *name* of something
 - **functions** become known as a **method** that performs a task like check how many rooms in the hotel object are booked
 - The **property** names are called the **key**, each Object has **key** / **value** pairs in their list of **properities**
