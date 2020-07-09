@@ -40,4 +40,12 @@ Article: [Understanding the problem domain is the hardest part of programming](h
 
   <img src='images/methodDOM.jpg' width='300px'>
 
+---
+## Article | [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+---
+- Often times the Problem Domain isn't clear which will lead to bad code
+- Be sure to have a clear understanding of the Problem Domain before starting the code
+- You can simply the Problem Domain but cutting it into smaller chunks
+
+
 [Back to Home](README.md)
