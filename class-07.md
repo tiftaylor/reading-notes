@@ -23,10 +23,10 @@ Article: [Domain Modeling](https://github.com/codefellows/domain_modeling#domain
 - For **many** objects for a Constructor Notation you’ll use a **function** as a template to create new **instances** of the **object**. 
 - You can use true and false to add or remove **properties** (`hotel.gym = true;`)  
 
-This is best represented by the images from the book referenced above: 
-<img src='images/constructorStuff.jpg' width='400px'>
+	This is best represented by the images from the book referenced above: 
+	- <img src='images/constructorStuff.jpg' width='400px'>
 
-> **this** is an awesome keyword that can be used in scope of functions to reference the variable or object the function operates
+> NOTE: **this** is an awesome keyword that can be used in scope of functions to reference the variable or object the function operates
 
 - **Array** is an object with key/value pairs. 
 - As a regular **array** `costs = [100, 200, 300];` the key is the **index** (the place where the value is in the list), and the **value** is the actual thing like `100` or `200`. 
