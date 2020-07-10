@@ -24,7 +24,7 @@ Class 3 \| [HTML Lists, CSS Boxes, Control Flow w/JS](class-03.md)
 Class 4 \| [HTML Links, CSS Layout & JS Functions](class-04.md)     
 Class 5 \| [HTML Images, CSS Color & Text](class-05.md)   
 Class 6 \| [JS Object Literals & The DOM](class-06.md)   
-Class 7 \|  
+Class 7 \| [HTML Tables & JS Constructor Functions](class-07.md)   
 Class 8 \|  
 Class 9 \|  
 Class 10 \|  
