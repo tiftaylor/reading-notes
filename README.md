@@ -26,8 +26,8 @@ Class 5 \| [HTML Images, CSS Color & Text](class-05.md)
 Class 6 \| [JS Object Literals & The DOM](class-06.md)   
 Class 7 \| [HTML Tables & JS Constructor Functions](class-07.md)   
 Class 8 \| [More CSS Layout](class-08.md)   
-Class 9 \|  
-Class 10 \|  
+Class 9 \| [Forms and Events](class-09.md)   
+Class 10 \| [JS Debugging](class-10.md)   
 Class 11 \|  
 Class 12 \|  
 Class 13 \|  
