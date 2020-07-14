@@ -29,7 +29,7 @@ Class 8 \| [More CSS Layout](class-08.md)
 Class 9 \| [Forms and Events](class-09.md)   
 Class 10 \| [JS Debugging](class-10.md)   
 Class 11 \| [Images & Practical Info](class-11.md)  
-Class 12 \|  
+Class 12 \| [API Chart.js + Canvas Element](class-12.md)   
 Class 13 \|  
 Class 14 \|  
 Class 15 \|  
