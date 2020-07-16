@@ -31,8 +31,8 @@ Class 10 \| [JS Debugging](class-10.md)
 Class 11 \| [Images & Practical Info](class-11.md)  
 Class 12 \| [API Chart.js + Canvas Element](class-12.md)   
 Class 13 \| [Web application Local Storage](class-13.md)   
-Class 14 \|  
-Class 15 \|  
+Class 14a \| [CSS Transforms, Transitions, & Animations](class-14a.md)    
+Class 14b \|  
 
 ## Code Fellows 301 | Reading Notes
 
