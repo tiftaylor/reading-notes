@@ -7,33 +7,50 @@ Author of **reading-notes** Repo: Tif Taylor  \| [Tif's GitHub Profile Page](htt
 
 # Table of Contents
 
-## Code Fellows 102 | Reading Notes
-Class 1 \| [Growth Mindsest](growth-mindset.md)  
-Class 2 \| [Coders Computer](coders-computer.md)  
-Class 3 \| [Local and Remote Revisions](git-intro.md)   
-Class 4 \| [HTML](html-structure.md)   
-Class 5 \| [Intro to CSS](css-intro.md)   
-Class 6 \| [Intro to JavaScript](js-intro.md) \| [How Computers Work](computers.md)     
-Class 7 \| [Programming with JS](moreJS.md)   
-Class 8 \| [Loops with JS](loops.md)  
-
-## Code Fellows 201 | Reading Notes
-Class 1 \| [Intro to HTML & Intro to JavaScript](class-01.md)   
-Class 2 \| [Basics of HTML, CSS & JS](class-02.md)   
-Class 3 \| [HTML Lists, CSS Boxes, Control Flow w/JS](class-03.md)    
-Class 4 \| [HTML Links, CSS Layout & JS Functions](class-04.md)     
-Class 5 \| [HTML Images, CSS Color & Text](class-05.md)   
-Class 6 \| [JS Object Literals & The DOM](class-06.md)   
-Class 7 \| [HTML Tables & JS Constructor Functions](class-07.md)   
-Class 8 \| [More CSS Layout](class-08.md)   
-Class 9 \| [Forms and Events](class-09.md)   
-Class 10 \| [JS Debugging](class-10.md)   
-Class 11 \| [Images & Practical Info](class-11.md)  
-Class 12 \| [API Chart.js + Canvas Element](class-12.md)   
-Class 13 \| [Web application Local Storage](class-13.md)   
-Class 14a + 14b \| [Googles Perfect Team + CSS Transforms, Transitions, & Animations](class-14a-14b.md)    
-Class 14b \|  
-
-## Code Fellows 301 | Reading Notes
+## Code Fellows 102 | Intro to Software Development
+Class 1 \| [Growth Mindsest](102/growth-mindset.md)  
+Class 2 \| [Coders Computer](102/coders-computer.md)  
+Class 3 \| [Local and Remote Revisions](102/git-intro.md)   
+Class 4 \| [HTML](102/html-structure.md)   
+Class 5 \| [Intro to CSS](102/css-intro.md)   
+Class 6 \| [Intro to JavaScript](102/js-intro.md) \| [How Computers Work](102/computers.md)     
+Class 7 \| [Programming with JS](102/moreJS.md)   
+Class 8 \| [Loops with JS](102/loops.md)  
 
 
+## Code Fellows 201 | Foundations of Software Development
+Class 1 \| [Intro to HTML & Intro to JavaScript](201/class-01.md)   
+Class 2 \| [Basics of HTML, CSS & JS](201/class-02.md)   
+Class 3 \| [HTML Lists, CSS Boxes, Control Flow w/JS](201/class-03.md)    
+Class 4 \| [HTML Links, CSS Layout & JS Functions](201/class-04.md)     
+Class 5 \| [HTML Images, CSS Color & Text](201/class-05.md)   
+Class 6 \| [JS Object Literals & The DOM](201/class-06.md)   
+Class 7 \| [HTML Tables & JS Constructor Functions](201/class-07.md)   
+Class 8 \| [More CSS Layout](201/class-08.md)   
+Class 9 \| [Forms and Events](201/class-09.md)   
+Class 10 \| [JS Debugging](201/class-10.md)   
+Class 11 \| [Images & Practical Info](201/class-11.md)  
+Class 12 \| [API Chart.js + Canvas Element](201/class-12.md)   
+Class 13 \| [Web application Local Storage](201/class-13.md)   
+Class 14a + 14b \| [Googles Perfect Team + CSS Transforms, Transitions, & Animations](201/class-14a-14b.md)      
+
+
+## Code Fellows 301 | Intermediate Software Development
+Class 1 \| [Responsive Web Design and Floats](301/read01.md)  
+Class 2 \|  
+Class 3 \|  
+Class 4 \|  
+Class 5 \|  
+Class 6 \|  
+Class 7 \|  
+Class 8 \|  
+Class 9 \|  
+Class 10 \|  
+Class 11 \|  
+Class 12 \|  
+Class 13 \|  
+Class 14 \|  
+Class 15 \|  
+
+
+## Code Fellows 401 | Advanced Software Development
