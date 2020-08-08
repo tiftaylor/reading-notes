@@ -37,7 +37,7 @@ Class 14a + 14b \| [Googles Perfect Team + CSS Transforms, Transitions, & Animat
 
 ## Code Fellows 301 | Intermediate Software Development
 Class 1 \| [Responsive Web Design and Floats](301/read01.md)  
-Class 2 \|  
+Class 2 \| [jQuery, Events and The DOM](301/read02.md)   
 Class 3 \|  
 Class 4 \|  
 Class 5 \|  
