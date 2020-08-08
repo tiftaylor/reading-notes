@@ -11,9 +11,12 @@ Article: [Templating with Mustache](https://medium.com/@1sherlynn/javascript-tem
 - To use mustache with **Node** and **Express**, it's ideal to use [mustache-express](https://www.npmjs.com/package/mustache-express)
   - You can install it using **npm** `> npm i mustache-express`
 - Screenshot from [mustache-express](https://www.npmjs.com/package/mustache-express) on how to configure it in the JS file:   
+
 <img src="../images/mustacheexpress.png">
+
 - In router config use `res.render(TEMPLATE_NAME, JASON_DATA)` Ex: `res.render('hello', {"name": "Tiffany"})`
 - It also take a var name like this: 
+
 ```
 let nameObject = {"name": "Tif"}
 res.render('hello', nameObject)
