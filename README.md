@@ -40,7 +40,7 @@ Class 1 \| [Responsive Web Design and Floats](301/read01.md)
 Class 2 \| [jQuery, Events and The DOM](301/read02.md)   
 Class 3 \| [Mustache and Flexbox](301/read03.md)   
 Class 4 \| [CSS Grid](301/read04.md)   
-Class 5 \|  
+Class 5 \| [Heroku](301/read05.md)   
 Class 6 \|  
 Class 7 \|  
 Class 8 \|  
