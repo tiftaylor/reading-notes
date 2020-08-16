@@ -43,9 +43,9 @@ Class 4 \| [CSS Grid](301/read04.md)
 Class 5 \| [Heroku](301/read05.md)   
 Class 6 \| [Node.js](301/read06.md)   
 Class 7 \| [REST](301/read07.md)   
-Class 8 \|  
-Class 9 \|  
-Class 10 \|  
+Class 8 \| [SQL](301/read08.md)   
+Class 9 \| [Functional Programming](301/read09.md)    
+Class 10 \| [The Call Stack](301/read010.md)  
 Class 11 \|  
 Class 12 \|  
 Class 13 \|  

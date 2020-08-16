@@ -1,7 +1,7 @@
 # Read:07 \| REST
-#### Article: [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
-#### Documention: [SuperAgent](https://visionmedia.github.io/superagent/)
-#### Article: [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+Article: [How I explained REST to my brother](https://gist.github.com/brookr/5977550)  
+Documention: [SuperAgent](https://visionmedia.github.io/superagent/)  
+Article: [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  
 
 
 ## Notes from [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
