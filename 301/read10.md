@@ -1,4 +1,4 @@
-# Read:010 \| The Call Stack
+# Read:10 \| The Call Stack
 MDN: [The Call Stack Defined](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)   
 Article: [Understanding the JS Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4) | Article: [JavaScript Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 

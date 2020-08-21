@@ -46,7 +46,7 @@ Class 7 \| [REST](301/read07.md)
 Class 8 \| [SQL](301/read08.md)   
 Class 9 \| [Functional Programming](301/read09.md)    
 Class 10 \| [The Call Stack](301/read10.md)  
-Class 11 \|  
+Class 11 \| [EJS](301/read11.md)     
 Class 12 \|  
 Class 13 \|  
 Class 14 \|  
