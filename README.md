@@ -48,7 +48,7 @@ Class 9 \| [Functional Programming](301/read09.md)
 Class 10 \| [The Call Stack](301/read10.md)  
 Class 11 \| [EJS](301/read11.md)     
 Class 12 \| [Components](301/read12.md)   
-Class 13 \| [Update / Delete](301/read13.md)   
+Class 13 \| [Sending Form Data](301/read13.md)   
 Class 14 \| [DB Normalization](301/read14.md)   
 Class 15 \| [Diversity & Inclusion](301/read15.md)   
 
