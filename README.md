@@ -54,3 +54,4 @@ Class 15 \| [Diversity & Inclusion](301/read15.md)
 
 
 ## Code Fellows 401 | Advanced Software Development
+Pre-reading \| [Problem Solving](401/problem-solving.md)  
