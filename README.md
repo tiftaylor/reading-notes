@@ -54,4 +54,14 @@ Class 15 \| [Diversity & Inclusion](301/read15.md)
 
 
 ## Code Fellows 401 | Advanced Software Development
-Pre-reading \| [Problem Solving](401/problem-solving.md)  
+Pre-reading \| [Problem Solving](401/problem-solving.md)    
+Class 01 \| [Node Ecosystem, TDD, CI/CD](401/class01.md)  
+Class 02 \| [Classes, Inheritance, Functional Programming](401/class02.md)  
+Class 03 \| [Data Modeling & NoSQL](401/class03.md)  
+Class 04 \| [Advanced Mongo/Mongoose](401/class04.md)  
+Class 05 \| [Implementation: Linked Lists](401/class05.md)  
+Class 06 \| [HTTP and REST](401/class06.md)  
+Class 07 \| [Express](401/class07.md)  
+Class 08 \| [Express Routing & Connected API](401/class08.md)  
+Class 09 \| [API Server](401/class09.md)  
+Class 10 \| [Implementation: Stacks and Queues](401/class10.md)  
