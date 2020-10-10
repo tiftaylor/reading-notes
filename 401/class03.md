@@ -69,11 +69,11 @@ Which 3 things had you heard about previously and now have better clarity on?
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
   1) Scaling? Horizontal vs. Vertical - what examples of needing to scale? And how does the direction of scaling impact needs? 
-  2) 
-  3) z
+  2) I feel like my brain is missing context for when, how, why I need to think about all these data modeling techniques. 
+  3) Just overall dumbing down of this entire topic into bite size baby steps of a real world example of why this topic matters to me.
 
 What are you most excited about trying to implement or see how it works?
-   - xyz
+   - Inverted search aggregates
 
 
 [Back to Home](README.md)
