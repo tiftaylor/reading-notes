@@ -7,27 +7,33 @@ Article: [NoSQL Modeling Techniques](https://highlyscalable.wordpress.com/2012/0
 ## Review Tidbits
 
 Name 3 advantages to Test Driven Development 
-  - x
-  - y 
-  - z
+  - When you write tests first (per tradition), it helps you better understand how you'll write your function and will always fail until you've written your function correctly
+  - Once a test is written, it can be reused over and over to ensure something from the past doesn't break as you continue to add new things to the code base
+  - Writing a test first with your teammates can help everyone agree on what the function is supposed to do, up front.
 
 In what case would you need to use beforeEach() or afterEach() in a test suite?
-  - asdf
+  - beforeEach and afterEach are ran before and after each test case and are used when you want to repeat a setup for many tests.
 
 What is one downside of Test Driven Development
-  - asd
+  - It's expensive. By that I mean, it takes a lot more man power hours and effort to create which is slow and time consuming.
 
 What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
-  - asdf
+  - I think it's just that ES6 classes help you do the same thing but in potentially less lines of code and lines of code that are easier to read as a developer than the traditional consturot/prototype way.
 
 Name a use case for a static method
-  - asdf
+  - When you don't want the definition of the method to be changed or overridden (stay static).
 
 Write an example of a Higher Order function and describe the use case it solves
-  - Use case: 
+  - Use case: when you want to have abstract control over actions (not just values) of past, present or future functions
   ```
-  CODE HERE
+    function greaterThan(n) {
+      return m => m > n;
+    }
+    let greaterThan10 = greaterThan(10);
+    console.log(greaterThan10(11));
+    // → true
   ```
+  - Example function borrowed from [Eloquent JavaScript](https://eloquentjavascript.net/05_higher_order.html)
 
 
 
@@ -57,13 +63,13 @@ unit test | "typically automated tests written and run by software developers to
 ## Upcoming Lecture
 
 Which 3 things had you heard about previously and now have better clarity on?
-  1) x
-  2) y
-  3) z
+  1) SQL is a language to make queries, not a database (good reminder!)
+  2) SQL data structure is relationtional (has tables and clear schemas and records adhere to the schemas and data is normalized)
+  3) MongoDB, I have seen this but didn't know it's connection to the NoSQL concept. It is database with collections of documents / not relational
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1) x
-  2) y
+  1) Scaling? Horizontal vs. Vertical - what examples of needing to scale? And how does the direction of scaling impact needs? 
+  2) 
   3) z
 
 What are you most excited about trying to implement or see how it works?
