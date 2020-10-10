@@ -29,13 +29,13 @@ immutable state |
 object |
 object-oriented programming (OOP) |
 class |
-prototype |
+prototype | an objects private property that is a link to another object
 super |
 inheritance |
 constructor |
 instance |
 context |
-this |
+this | a keyword in JS that is based on context of it's scope
 Test Driven Development (TDD) |
 Jest |
 Continuous Integration (CI) |
