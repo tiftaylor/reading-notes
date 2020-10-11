@@ -7,15 +7,17 @@ Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-serv
 ## Review Tidbits
 
 Why would a developer choose to make data models?
+  - I assuemd a data model is required, so having to understand why we would chose to have one doesn't seem like a luxury a dev has, since they're necessary. But, I guess in essence, you make one to try and make your query life easier.
 
 What purpose do CRUD operations serve?
+  - It allows us to create, read, update, delete data to manipulate the front end of an application based on the users needs
 
 What kind of database is Postgres? What kind of database is MongoDB?
   - Postgres is a SQL database that relies on sepcific schemas for a relational database quereies
   - MongoDB is a NoSQL database that isn't relational and all data is stored in documents in collections
 
 What is Mongoose and why do we need it?
-
+  - We use Mongoose to create classes (or models) for "mapping" from business logic to data structure. We need it to help keep queries centralized, and reduces dupicate code.
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
@@ -37,17 +39,17 @@ Object Relation Mapping (ORM) | "Object-relational mapping in computer science i
 ## Upcoming Lecture
 
 Which 3 things had you heard about previously and now have better clarity on?
-  1) x
-  2) y
-  3) z
+  1) I had heard the word "system design" - is that the same thing as "software design patterns"?
+  2) I had not heard about repository patterns but now I have, so naturally, better clarity :)
+  3) I've heard of mongoDB, I maybe have better clarity on what it is, in that it's a sibling of postgres, and just another way to create and maintain
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1) x
-  2) y
-  3) z
+  1) Understanding the difference between the data mapper vs. query object
+  2) What does this look like in practice
+  3) Just feeling a little overwhelmed and confused on the point of using mongoose (with?) mongoDB
 
 What are you most excited about trying to implement or see how it works?
-   - xyz
+   - Looking forward to attempting to try MongoDB and see how similar or disimlar it is to postgres
 
 
 [Back to Home](README.md)
