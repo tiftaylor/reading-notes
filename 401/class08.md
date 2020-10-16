@@ -1,7 +1,6 @@
 # Class 08 \| Express Routing & Connected API
-Article: [x](xxx)     
-Article: [y](xxx)  
-Article: [z](xxx)   
+Article: [Using Express Routing](https://expressjs.com/en/guide/routing.html)     
+Article: [Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)  
 
 
 ## Review Tidbits

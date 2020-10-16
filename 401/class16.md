@@ -1,35 +1,29 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 16 \| Event Driven Applications
+Article: [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)       
+Article: [Node Docs: Events](https://nodejs.org/api/events.html)    
+
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+Why is access control important?
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+Describe an application that would need access control.
 
-What is Mongoose and why do we need it?
+
+What is a role used for?
+
+
+Why is role based access control more scalable than discretionary or mandatory access control?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+Authorization |
+Role Based Access Control |
+Capabilities |
 
 
 ## Upcoming Lecture

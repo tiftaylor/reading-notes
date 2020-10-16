@@ -1,35 +1,31 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 11 \| Authentication
+Article: [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)       
+Article: [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)    
+Article: [Intro to JWT](https://jwt.io/introduction/)     
+Article: [OWASP Auth Cheatsheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)    
+Article: [Bcrypt Docs](https://www.npmjs.com/package/bcrypt)    
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+Explain what a “Singleton” is (in Computer Science terms)
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+Explain how the Singleton pattern can be used with Node modules, specifically with classes
 
-What is Mongoose and why do we need it?
+
+If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+Router Middleware |   
+Dynamic Module Loading |  
+Singleton Pattern |  
+CRUD -> REST Method Matches | 
+Mock Testing |  
+
 
 
 ## Upcoming Lecture

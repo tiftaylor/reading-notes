@@ -1,35 +1,40 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 12 \| OAuth
+Article: [What is OAuth Really All About](https://www.youtube.com/watch?v=t4-416mg6iU)       
+Article: [OAuth2 Simplified](https://aaronparecki.com/oauth-2-simplified/)    
+Article: [Build a Node API with OAuth](https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node)     
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+Why is authentication important?
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+Why should we be careful about storing a user’s password?
 
-What is Mongoose and why do we need it?
+
+What is the difference between hashing and encryption?
+
+
+What is the difference between encryption and encoding?
+
+
+What is a token used for?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+authentication |
+authorization |
+encryption |
+hashing |
+session |
+cookie |
+token |
+Basic Auth |
+encoding |
+secret |
+cryptography |
 
 
 ## Upcoming Lecture

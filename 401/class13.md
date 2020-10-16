@@ -1,35 +1,40 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 13 \| Bearer Authorization
+Article: [JWTs Explained](https://www.youtube.com/watch?v=926mknSW9Lo)       
+Article: [Intro to JWT](https://jwt.io/introduction/)    
+Article: [Are JWTs Secure](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)     
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+Write the following steps in the correct order:
+  Receive access token
+  Redirect to a third party authentication endpoint
+  Register your application to get a client_id and client_secret
+  Make a request to a third-party API endpoint
+  Ask the client if they want to sign in via a third party
+  Receive authorization code
+  Make a request to the access token endpoint
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+What can you do with an authorization code?
 
-What is Mongoose and why do we need it?
+
+What can you do with an access token?
+
+
+What’s a benefit of using OAuth instead of your own basic authentication?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+Client ID |
+Client Secret |
+Authentication Endpoint |
+Access Token Endpoint |
+API Endpoint |
+Authorization Code |
+Access Token |
 
 
 ## Upcoming Lecture

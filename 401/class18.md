@@ -1,35 +1,40 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 18 \| Socket.io
+Article: [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)    
+Tutorial: [Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)  
+Article: [Socket.io vs. Web Sockets](https://www.educba.com/websocket-vs-socket-io/)  
+Docs: [Socket.io Docs](https://socket.io/docs/)  
+Article: [Socket.io Server API](https://socket.io/docs/server-api)  
+Article: [Socket.io Client API](https://socket.io/docs/client-api)   
+Article: [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)   
+   
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+What is the benefit of transforming data into packets?
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+UDP is often refereed to as a connectionless protocol. Why is this?
 
-What is Mongoose and why do we need it?
+
+Can a socket server application have multiple socket connections?
+
+
+Can a socket connection application be connected to multiple socket servers?
+
+
+Can an application be both a socket server and a socket connection?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+OSI Model |
+TCP Model |
+TCP |
+UDP |
+Packets |
+Socket |
 
 
 ## Upcoming Lecture

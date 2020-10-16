@@ -1,7 +1,8 @@
 # Class 09 \| API Server
-Article: [x](xxx)     
-Article: [y](xxx)  
-Article: [z](xxx)   
+Article: [Express Router.param() middleware](https://expressjs.com/en/4x/api.html#router.param)     
+Article: [Mongoose Middleware](https://mongoosejs.com/docs/middleware.html)  
+Article: [Mongoose sub-documents](https://mongoosejs.com/docs/subdocs.html)   
+Article: [Mongoose Virtual Joins](https://mongoosejs.com/docs/populate.html#populate-virtuals)  
 
 
 ## Review Tidbits

@@ -1,7 +1,8 @@
 # Class 07 \| Express
-Article: [x](xxx)     
-Article: [y](xxx)  
-Article: [z](xxx)   
+Video: [Express Middleare Explained](https://www.youtube.com/watch?v=9HOem0amlyg)     
+Article: [Using Express Middleware](https://expressjs.com/en/guide/using-middleware.html)  
+Article: [Express Middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)   
+Article: [Using Express Routing](https://expressjs.com/en/guide/routing.html)  
 
 
 ## Review Tidbits

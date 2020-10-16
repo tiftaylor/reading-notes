@@ -1,35 +1,28 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 14 \| Access Control ACL
+Article: [RBAC Tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)       
+Article: [5 Steps to RBAC](https://www.csoonline.com/article/3060780/security/5-steps-to-simple-role-based-access-control.html)    
+Article: [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)     
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+When is Basic Authorization used vs. Bearer Authorization?
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+What does the JSON Web Token package do?
 
-What is Mongoose and why do we need it?
+
+What considerations should we make when creating and storing a SECRET?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+encryption |
+token |
+bearer |
+secret |
+JSON Web Token |
 
 
 ## Upcoming Lecture

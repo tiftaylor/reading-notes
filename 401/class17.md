@@ -1,35 +1,39 @@
-# Class 04 \| Advanced Mongo/Mongoose
-Article: [The Repo Design Pattern](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)       
-Article: [In Memory Database Testing](https://dev.to/paulasantamaria/testing-node-js-mongoose-with-an-in-memory-database-32np)    
-Article: [Mongo Memory Server](https://www.npmjs.com/package/mongodb-memory-server)     
+# Class 17 \| TCP Servers
+Article: [OSI Model Explained](https://www.youtube.com/watch?v=vv4y_uOneC0)       
+Article: [TCP Handshakes Explained](https://www.youtube.com/watch?v=xMtP5ZB3wSk)    
+Article: [OSI Model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)     
+Article: [What is TCP](https://searchnetworking.techtarget.com/definition/TCP)    
+Code: [Build a TCP Server](https://techbrij.com/node-js-tcp-server-client-promisify)    
+Docs: [Node Docs: Net Module](https://nodejs.org/api/net.html)    
 
 
 ## Review Tidbits
 
-Why would a developer choose to make data models?
+Given the examples of front-end events such as button click, window resize, form submit, etc, what are some examples of back-end events?
 
-What purpose do CRUD operations serve?
 
-What kind of database is Postgres? What kind of database is MongoDB?
+Why are events sometimes better than asynchronous actions with callbacks?
 
-What is Mongoose and why do we need it?
+
+What does an EventEmitter instance do?
+
+
+When is a program’s call stack, event queue, and event loop active?
 
 
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-database |   
-data model |  
-CRUD |  
-schema | 
-sanitize |  
-Structured Query Language (SQL) |  
-Non SQL (NoSQL) |  
-MongoDB |  
-Mongoose |  
-record |  
-document |  
-Object Relation Mapping (ORM) |  
+Observer Pattern |
+Listener |
+Event Handler |
+Event Driven Programming |
+Event Loop |
+Event Queue |
+Call Stack |
+Emit/Raise/Trigger |
+Subscribe |
+database |
 
 
 ## Upcoming Lecture
