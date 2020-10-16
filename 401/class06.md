@@ -35,17 +35,17 @@ Object Relation Mapping (ORM) |  An example is Mongoose, which is a library to h
 ## Upcoming Lecture
 
 Which 3 things had you heard about previously and now have better clarity on?
-  1) x
-  2) y
-  3) z
+  1) HTTP methods used by REST architecture
+  2) REST / architecture style for network use with HTTP / formats the API messages
+  3) API - the messanger / loved the waiter analogy in the video!
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1) x
-  2) y
-  3) z
+  1) REST resources and representations
+  2) REST "uniform interface"
+  3) Authentication
 
 What are you most excited about trying to implement or see how it works?
-   - xyz
+   - creating something and gaining clarity around a ReSTful application
 
 
 [Back to Home](/README.md)
