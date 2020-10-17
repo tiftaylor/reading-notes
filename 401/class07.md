@@ -48,17 +48,17 @@ Swagger |  Swagger is in essence an Interface Description Language for describin
 ## Upcoming Lecture
 
 Which 3 things had you heard about previously and now have better clarity on?
-  1) x
-  2) y
-  3) z
+  1) Middleware. I've heard this team but haven't understand at all. Slowly getting better idea.
+  2) Application level use of middleware, think we did this in 301?
+  3) body parser. We used this in 301 but didn't understand it's relation to middleware
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1) x
-  2) y
-  3) z
+  1) Don't understand the use or point etc of router-level middleware
+  2) Not clear on app.use() or the concept of "middleware as a callback fn"
+  3) URL paths and regex
 
 What are you most excited about trying to implement or see how it works?
-   - xyz
+   - ReST routing with Express? I'm not sure if we're doing ReST with Express or not
 
 
 [Back to Home](README.md)
