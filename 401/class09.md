@@ -34,17 +34,17 @@ Request “Params” |  defined by URL for what data you want the server to look
 ## Upcoming Lecture
 
 Which 3 things had you heard about previously and now have better clarity on?
-  1) x
-  2) y
-  3) z
+  1) Slowly wraping my head around router.param / router lvl stuff
+  2) router.route - cool ok so I kinda get the instance aspect where the HTTP methods will only apply to that instance of that route url
+  3) Slowly understanding the concept of middleware, didn't realize Mongoose itself ad 4 different types! Bigger world than I thought
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1) x
-  2) y
-  3) z
+  1) Still not clear on express.static() - where/what/when/how/why
+  2) I need more examples and human explanation of when/where/why for next()
+  3) Break down the concept and definitions and use of hooks (vs. no hooks?)
 
 What are you most excited about trying to implement or see how it works?
-   - xyz
+   - I'm not sure i'm excited about any of this haha, backend stuff is pretty hard for me. So just looking forward to continuing to attempt to implement anything
 
 
 [Back to Home](README.md)
