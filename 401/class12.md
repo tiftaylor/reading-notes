@@ -45,12 +45,12 @@ Which 3 things had you heard about previously and now have better clarity on?
   3) authentication vs. authorization
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1) 
-  2) y
-  3) z
+  1) difference in authorization codes and access tokens - they both seem to be tokens
+  2) when to use OAuth, more specifically why and the nuanced difference. Like I as an average joe can still get FB data with oauth, so why not just basic
+  3) can't think of a third, most of it is straight forward
 
 What are you most excited about trying to implement or see how it works?
-   - xyz
+   - learning how to implement oauth to get cool data
 
 
 [Back to Home](README.md)

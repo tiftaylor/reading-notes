@@ -18,10 +18,10 @@ What considerations should we make when creating and storing a SECRET?
 **Document the following Vocabulary Terms**  
 Term | Defition  
 --|--  
-encryption |
+encryption | encoding info so unauthroized ppl can't read it - only servers @ "that" site can read it
 token |
 bearer |
-secret |
+secret | something you don't want other ppl to know, like decryption key
 JSON Web Token |
 
 
